@@ -14,8 +14,8 @@ The goal of this repository is to showcase end-to-end data projects—from handl
 
 | Project Name | Type | Key Skills & Tools | Status |
 | :--- | :--- | :--- | :--- |
-| **[01. FIFA 21 Data Cleaning](./01_FIFA_Data_Cleaning)** | **Data Cleaning & EDA** | • Regex & String Parsing<br>• Outlier Detection (Boxplots)<br>• Feature Engineering<br>• Correlation Analysis | ✅ **Completed** |
-| *02. Used Car Price Analysis* | *Regression Analysis* | *• Coming Soon* | *Planned* |
+| **[01. FIFA 21 Data Cleaning](./01_FIFA_Data_Cleaning)** | **Data Cleaning & EDA** | • Regex & String Parsing<br>• Outlier Detection (Boxplots)<br>• Feature Engineering<br>• Correlation Analysis | **Completed** |
+| **[02. Spotify Tracks EDA & Clearning](./02_Spotify_600k_Track_EDA/)** | **EDA & Classification** | *• Comprehensive EDA<br>• Audio Feature Engineering<br>• PCA & Clustering Analysis<br>• Popularity Classification | **Completed** |
 | *03. Bank Customer Churn* | *Classification* | *• Coming Soon* | *Planned* |
 
 ---
